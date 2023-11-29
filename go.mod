@@ -1,4 +1,4 @@
-module gitgithub.com/Vasiliynemix/protos
+module github.com/Vasiliynemix/protos
 
 go 1.21
 
